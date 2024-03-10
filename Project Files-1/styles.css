@@ -1,0 +1,19 @@
+h1 {
+  text-decoration: underline;
+}
+
+img{
+  height:35vh;
+  width: 80vw;
+}
+body{
+  min-height: 98vh;
+  display:flex;
+  flex-direction: column;
+  font-family:Helvetica, Times, serif;
+}
+footer{
+  background-color: grey;
+  margin-top: auto;
+  padding:5px;
+}
